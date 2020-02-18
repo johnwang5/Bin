@@ -8,3 +8,4 @@ new for github edit by vim2
 new for github edit by vim3
 new for github edit by vim2 edit by brower
 hot_fix edit waiting merge
+new hot_fix
